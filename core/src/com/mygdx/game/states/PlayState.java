@@ -8,7 +8,7 @@ import com.mygdx.game.FlappyBird;
 import com.mygdx.game.sprites.Bird;
 import com.mygdx.game.sprites.Tube;
 
-// created by Teimur Mekhtiev
+// created by Teimur Mekhtiev #2
 public class PlayState extends State {
     private Bird bird;
     private Texture bg;
